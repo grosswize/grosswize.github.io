@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'garamond';
+	src: url('../fonts/garamond.eot');
+	src: url('../fonts/garamond.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/garamond.woff') format('woff'),
+		 url('../fonts/garamond.ttf') format('truetype'),
+		 url('../fonts/garamond.svg#garamond') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}

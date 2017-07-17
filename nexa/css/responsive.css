@@ -1,0 +1,24 @@
+/* Small devices (tablets, 1200px and down) */
+@media only screen and (max-width: 1200px) {
+	.container {
+		width: 100%;
+	}
+}
+
+
+/* Small devices (tablets, 1024px and down) */
+@media only screen and (max-width: 1024px) {
+
+}
+
+
+
+
+
+
+
+
+/* Small devices (tablets, 767px and down) */
+@media only screen and (max-width: 767px) {
+	
+}
